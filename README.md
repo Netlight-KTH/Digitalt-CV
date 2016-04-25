@@ -1,7 +1,7 @@
 #Digitalt CV#
 Uppgiften här är att skapa ett digitalt CV! 
 
-##Inspiration## 
+##Inspiration##
 
 Här är ett gäng festliga digitala CVn att inspireras av! 
 
